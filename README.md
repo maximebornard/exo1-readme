@@ -8,7 +8,4 @@ modifier
 
 plus de conflit 
 
-blabla
-blablacar
 
-ça va merder
