@@ -1,1 +1,3 @@
-Je suis Maxime BORNARD
+#Bonjour
+Je suis Maxime BORNARD.
+Je suis à CPE Lyon en 4ème année.
